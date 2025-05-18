@@ -23,5 +23,5 @@ public class Question5 {
 		int k=sc.nextInt();
 		System.out.println(fun(arr,k));
 	}
-
+	//Question5 Code is modified
 }
